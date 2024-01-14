@@ -7,7 +7,7 @@ services:
     
     # xxxx is the port you want to be reflected
     ports:
-      - xxxx:8080
+      - 888:8080
 
     # volumes:
       # if you have your own ssl files, uncomment and edit these two lines:
